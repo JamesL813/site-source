@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:JamesL813/JamesL813.github.io.git
+	branch = main
